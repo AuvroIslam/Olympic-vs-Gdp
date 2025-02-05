@@ -30,6 +30,8 @@ You can explore our visualizations here:
    - Conversely, countries like Brazil, Ukraine, and Russia have achieved strong Olympic results despite lower GDP per capita.  
 4. **France leveraged the home advantage the most, winning its highest medal count when hosting the Olympics.**  
 5. **Hosting the Olympics does not show a significant long-term impact on GDP growth.**  
+## **[Video Explanation](https://youtu.be/w-xnADK3w54?si=1e0F7rkaMflUYUoj) of interesting Findings from Tableau Dashboard**  
+-https://youtu.be/w-xnADK3w54?si=1e0F7rkaMflUYUoj
 
 ## Build from Sources<br>
 1/Clone the repo<br>
