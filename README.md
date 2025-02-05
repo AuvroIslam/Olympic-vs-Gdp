@@ -19,7 +19,18 @@ venv\Scripts\Activate.ps1
 ```bash
 pip install -r requirements.txt
 ```
-
+4/You will get scrapped files in "Olympic_medals.csv" and "gdp_per_capita.csv"<br>
+<br>
+Alternatively,check here to get scrapped files:<br>
+olympic_medal_dataset
+```bash
+https://github.com/AuvroIslam/Olympic-vs-Gdp/blob/main/capstoneProject1/Olympic_medals.csv
+```
+gdp_per_capita_dataset
+```bash
+https://github.com/AuvroIslam/Olympic-vs-Gdp/blob/main/capstoneProject1/gdp_per_capita.csv
+```
+#Analytics
 <h3>1/Tableau public view:</h3>
 -https://public.tableau.com/app/profile/oitijya.islam.auvro/viz/HostcountryAdvantage/HostCountry<br>
 -https://public.tableau.com/app/profile/oitijya.islam.auvro/viz/Summer_OlympicMedals/Dashboard1<br>
